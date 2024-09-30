@@ -2,7 +2,7 @@
 
 - 🎓 Currently pursuing **Bachelor's in Computer Engineering**.
 
-- Tech enthusiast passionate about **coding** and **software development**.
+- 👩‍💻 Tech enthusiast passionate about **coding** and **software development**.
 
 - 🌱 I’m currently learning **Javascript.**
 
