@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 📝 I write articles on [sanchiewrites.wordpress.com](sanchiewrites.wordpress.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
